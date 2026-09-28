@@ -1,4 +1,5 @@
-![webdev-starter](https://socialify.git.ci/devbytemehedi/webdev-starter/image?font=KoHo&forks=1&issues=1&name=1&pattern=Solid&pulls=1&stargazers=1&theme=Auto)
+![webdev-starter](https://socialify.git.ci/devbytemehedi/webdev-starter/image?description=1&font=KoHo&language=1&name=1&pattern=Solid&theme=Auto)
+
 
 ## Table of Contents
 
